@@ -1,5 +1,5 @@
 # TinDog Project
-
+This is a basic project in which I have created a website(just the frontend) using HTML and CSS, along with Bootstrapping and Flexbox.
 
 ## SVGs:
 Apple Logo:
